@@ -1,0 +1,40 @@
+```plaintext
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+logs/
+*.log
+
+# Build
+/target/
+/build/
+
+# Node
+/node_modules/
+
+# Docker
+*.env
+docker-compose.override.yml
+
+# AWS
+.aws/
+
+# Images
+*.png
+*.jpg
+
+# MongoDB
+/data/
+
+# Elasticsearch
+/elasticsearch/
+
+# 기타
+*.tmp
+*.bak
+*.swp
+```
+
+---
